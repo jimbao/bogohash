@@ -1,0 +1,6 @@
+*.pyc
+*.egg*
+venv
+*.iml
+build/
+.idea/
