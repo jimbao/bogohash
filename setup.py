@@ -27,7 +27,7 @@ setup(
         #  As from http://pypi.python.org/pypi?%3Aaction=list_classifiers
         'Development Status :: 3 - Alpha',
         'Intended Audience :: Developers',
-        'License :: Good luck',
+        'License :: Public Domain',
         'Operating System :: POSIX',
         'Programming Language :: Python',
         'Topic :: Education',
